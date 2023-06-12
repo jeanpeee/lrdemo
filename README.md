@@ -1,2 +1,2 @@
 # lrdemo
-# This is a food blog, capturing amazing experiences!
+  This is a food blog, capturing amazing experiences!
